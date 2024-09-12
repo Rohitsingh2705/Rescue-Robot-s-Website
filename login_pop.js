@@ -23,7 +23,7 @@ document.getElementById("loginForm").onsubmit = function(event) {
     var password = document.getElementById("password").value;
 
     // Example authentication logic (replace with your actual logic)
-    if (username === "rudraksha" && password === "SIH2024") {
+    if (username === "RUDRAKSHA" && password === "SIH2024") {
         // Redirect to another page upon successful login
         window.location.href = "sidebar.html"; // Replace with your desired redirect URL
     } else {
